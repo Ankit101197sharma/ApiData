@@ -1,0 +1,13 @@
+.mainDiv{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+.tableRow{
+    background-color: #ccc;
+    padding: 24px;
+    font-size: 18px;
+    font-weight: 600;
+
+}
